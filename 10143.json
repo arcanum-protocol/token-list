@@ -2,7 +2,7 @@
     {
         "n": "aPriori Monad LST",
         "s": "aprMON",
-        "a": "0xb2f82D0f38dc453D596Ad40A37799446Cc89274A"
+        "a": "0xb2f82D0f38dc453D596Ad40A37799446Cc89274A",
         "t": [0, 2]
     },
     {
@@ -55,11 +55,7 @@
         "cm": "825",
         "cg": "tether",
         "t": [5]
-<<<<<<< HEAD
-    }
-=======
     },
->>>>>>> cfe2d7b (update monad tokens)
     {
         "n": "Bean Exchange",
         "s": "BEAN",
