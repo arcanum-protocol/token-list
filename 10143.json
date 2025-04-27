@@ -55,7 +55,11 @@
         "cm": "825",
         "cg": "tether",
         "t": [5]
+<<<<<<< HEAD
     }
+=======
+    },
+>>>>>>> cfe2d7b (update monad tokens)
     {
         "n": "Bean Exchange",
         "s": "BEAN",
