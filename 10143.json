@@ -1,101 +1,114 @@
 [
-    {
-        "n": "aPriori Monad LST",
-        "s": "aprMON",
-        "a": "0xb2f82D0f38dc453D596Ad40A37799446Cc89274A",
-        "t": [0, 2]
-    },
-    {
-        "n": "Molandak",
-        "s": "DAK",
-        "a": "0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714"
-    },
-    {
-        "n": "Chog",
-        "s": "CHOG",
-        "a": "0xE0590015A873bF326bd645c3E1266d4db41C4E6B"
-    },
-    {
-        "n": "Moyaki",
-        "s": "YAKI",
-        "a": "0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50"
-    },
-    {
-        "n": "gMON",
-        "s": "gMON",
-        "a": "0xaEef2f6B429Cb59C9B2D7bB2141ADa993E8571c3",
-        "t": [6]
-    },
-    {
-        "n": "USDC",
-        "s": "USDC",
-        "a": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
-        "cm": "3408",
-        "cg": "usd-coin",
-        "t": [5]
-    },
-    {
-        "n": "ShMonad",
-        "s": "shMON",
-        "a": "0x3a98250F98Dd388C211206983453837C8365BDc1",
-        "l": "https://i.imghippo.com/files/Osf1224Egs.png",
-        "t": [2]
-    },
-    {
-        "n": "Kintsu Staked Monad",
-        "s": "sMON",
-        "a": "0xe1d2439b75fb9746E7Bc6cB777Ae10AA7f7ef9c5",
-        "l": "https://kintsu-logos.s3.us-east-1.amazonaws.com/sMON.svg",
-        "t": [0, 2]
-    },
-    {
-        "n": "USDT",
-        "s": "USDT",
-        "a": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
-        "cm": "825",
-        "cg": "tether",
-        "t": [5]
-    },
-    {
-        "n": "Bean Exchange",
-        "s": "BEAN",
-        "a": "0x268E4E24E0051EC27b3D27A95977E71cE6875a05",
-        "l": "https://w3-images.s3.ap-southeast-1.amazonaws.com/bean_logo.jpg",
-        "t": [1, 4]
-    },
-    {
-        "n": "Wrapped ETH",
-        "s": "WETH",
-        "a": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
-        "cm": "2396",
-        "cg": "weth",
-        "t": [0]
-    },
-    {
-        "n": "AI Jarvis",
-        "s": "JAI",
-        "a": "0xCc5B42F9d6144DFDFb6fb3987a2A916af902F5f8",
-        "l": "https://alpha.clober.io/mubond.svg",
-        "t": [3, 6]
-    },
-    {
-        "n": "muBOND",
-        "s": "muBOND",
-        "a": "0x0EfeD4D9fB7863ccC7bb392847C08dCd00FE9bE2",
-        "l": "https://alpha.clober.io/mubond.svg"
-    },
-    {
-        "n": "Wrapped BTC",
-        "s": "WBTC",
-        "a": "0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d",
-        "cm": "3717",
-        "cg": "wrapped-bitcoin",
-        "t": [0]
-    },
-    {
-        "n": "Monda",
-        "s": "MONDA",
-        "a": "0x0C0c92FcF37Ae2CBCc512e59714Cd3a1A1cbc411"
-    }
+	{
+		"n": "aPriori Monad LST",
+		"s": "aprMON",
+		"a": "0xb2f82D0f38dc453D596Ad40A37799446Cc89274A",
+		"l": "https://pbs.twimg.com/profile_images/1821177411796410369/GtzmUXok_400x400.jpg",
+		"t": [0, 2]
+	},
+	{
+		"n": "Molandak",
+		"s": "DAK",
+		"a": "0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714",
+		"l": "https://imagedelivery.net/tWwhAahBw7afBzFUrX5mYQ/27759359-9374-4995-341c-b2636a432800/public"
+	},
+	{
+		"n": "Chog",
+		"s": "CHOG",
+		"a": "0xE0590015A873bF326bd645c3E1266d4db41C4E6B",
+		"l": "https://imagedelivery.net/tWwhAahBw7afBzFUrX5mYQ/5d1206c2-042c-4edc-9f8b-dcef2e9e8f00/public"
+	},
+	{
+		"n": "Moyaki",
+		"s": "YAKI",
+		"a": "0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50",
+		"l": "https://imagedelivery.net/tWwhAahBw7afBzFUrX5mYQ/6679b698-a845-412b-504b-23463a3e1900/public"
+	},
+	{
+		"n": "gMON",
+		"s": "gMON",
+		"a": "0xaEef2f6B429Cb59C9B2D7bB2141ADa993E8571c3",
+		"t": [6],
+		"l": "https://www.magmastaking.xyz/gMON.png"
+	},
+	{
+		"n": "USDC",
+		"s": "USDC",
+		"a": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
+		"cm": "3408",
+		"cg": "usd-coin",
+		"d": 6,
+		"t": [5],
+		"l": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/usdc.png/public"
+	},
+	{
+		"n": "ShMonad",
+		"s": "shMON",
+		"a": "0x3a98250F98Dd388C211206983453837C8365BDc1",
+		"l": "https://i.imghippo.com/files/Osf1224Egs.png",
+		"t": [2]
+	},
+	{
+		"n": "Kintsu Staked Monad",
+		"s": "sMON",
+		"a": "0xe1d2439b75fb9746E7Bc6cB777Ae10AA7f7ef9c5",
+		"l": "https://kintsu-logos.s3.us-east-1.amazonaws.com/sMON.svg",
+		"t": [0, 2]
+	},
+	{
+		"n": "USDT",
+		"s": "USDT",
+		"a": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
+		"cm": "825",
+		"cg": "tether",
+		"l": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/images.png/public",
+		"d": 6,
+		"t": [5]
+	},
+	{
+		"n": "Bean Exchange",
+		"s": "BEAN",
+		"a": "0x268E4E24E0051EC27b3D27A95977E71cE6875a05",
+		"l": "https://w3-images.s3.ap-southeast-1.amazonaws.com/bean_logo.jpg",
+		"t": [1, 4]
+	},
+	{
+		"n": "Wrapped ETH",
+		"s": "WETH",
+		"a": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
+		"cm": "2396",
+		"cg": "weth",
+		"t": [0],
+		"l": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/weth.jpg/public"
+	},
+	{
+		"n": "AI Jarvis",
+		"s": "JAI",
+		"a": "0xCc5B42F9d6144DFDFb6fb3987a2A916af902F5f8",
+		"l": "https://javis-agent.s3.ap-southeast-1.amazonaws.com/uploads/avatars/Javis-logo.png",
+		"t": [3, 6],
+		"d": 6
+	},
+	{
+		"n": "muBOND",
+		"s": "muBOND",
+		"a": "0x0EfeD4D9fB7863ccC7bb392847C08dCd00FE9bE2",
+		"l": "https://testnet.monadexplorer.com/images/token/token-default-dark.svg"
+	},
+	{
+		"n": "Wrapped BTC",
+		"s": "WBTC",
+		"a": "0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d",
+		"cm": "3717",
+		"cg": "wrapped-bitcoin",
+		"t": [0],
+		"d": 8,
+		"l": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/wbtc.png/public"
+	},
+	{
+		"n": "Monda",
+		"s": "MONDA",
+		"a": "0x0C0c92FcF37Ae2CBCc512e59714Cd3a1A1cbc411",
+		"l": "https://pbs.twimg.com/profile_images/1898733671798157312/SKe2XB43_400x400.jpg"
+	}
 ]
-
